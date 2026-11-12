@@ -43,7 +43,7 @@ export const hero = {
   title: "Sachez qui est sur le terrain, où et à quelle heure.",
   subtitle:
     "KAYBIC Tracking réunit un back-office web pour organiser les missions et une application mobile pour pointer sur site. Les présences sont vérifiées, horodatées et consultables à tout moment.",
-  primaryCta: { label: "Demander une démo", href: "#contact" },
+  primaryCta: { label: "Voir la démo", href: "https://kaybic-tracking-mobile-demo.netlify.app" },
   secondaryCta: { label: "Voir les fonctionnalités", href: "#fonctionnalites" },
   points: ["Pointage géolocalisé", "Fonctionne hors ligne", "Exports Excel"],
 }
